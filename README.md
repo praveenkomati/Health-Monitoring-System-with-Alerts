@@ -1,5 +1,5 @@
 # Health Monitoring System with Alerts 🚑
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveenkomati/Health-Monitoring-System-with-Alerts/blob/main/main.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveenkomati/Health-Monitoring-System-with-Alerts/blob/main/minor2.ipynb)
 
 
 This Python-based project monitors vital health signs such as heart rate, oxygen saturation (SpO2), and body temperature. It automatically triggers alerts when any value exceeds the safe thresholds, helping in early detection of potential health risks.

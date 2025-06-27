@@ -3,6 +3,15 @@
 
 
 This Python-based project monitors vital health signs such as heart rate, oxygen saturation (SpO2), and body temperature. It automatically triggers alerts when any value exceeds the safe thresholds, helping in early detection of potential health risks.
+## 📂 Dataset
+
+This project uses simulated or real health data for demonstration purposes.
+
+If you are using a real dataset, you can download it from here:
+
+🔗 https://www.kaggle.com/datasets/nraobommela/health-monitoring-system
+> **Note**: If you're running the project on Colab, you may need to manually upload the dataset or connect your Google Drive.
+
 
 ## 🔍 Overview
 The system simulates or collects real-time health data and uses simple threshold logic to check if the values are within safe limits. When an abnormal value is detected, the system can print a warning, send an email, or even trigger an SMS using APIs like Twilio.
